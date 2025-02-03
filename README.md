@@ -8,10 +8,10 @@ This package is a fork of [`@capacitor-community/barcode-scanner`](https://githu
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/detchenkov/cap-barcode-scanner"><img src="https://img.shields.io/npm/l/detchenkov/cap-barcode-scanner?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/cap-barcode-scanner"><img src="https://img.shields.io/npm/l/cap-barcode-scanner?style=flat-square" /></a>
 <br>
-  <a href="https://www.npmjs.com/package/detchenkov/cap-barcode-scanner"><img src="https://img.shields.io/npm/dw/detchenkov/cap-barcode-scanner?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/detchenkov/cap-barcode-scanner"><img src="https://img.shields.io/npm/v/detchenkov/cap-barcode-scanner?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/cap-barcode-scanner"><img src="https://img.shields.io/npm/dw/cap-barcode-scanner?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/cap-barcode-scanner"><img src="https://img.shields.io/npm/v/cap-barcode-scanner?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href="#contributors-"><img src="https://img.shields.io/badge/all%20contributors-1-orange?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
