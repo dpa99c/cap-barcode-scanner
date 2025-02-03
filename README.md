@@ -46,7 +46,7 @@ On **Web** this library uses [`zxing/browser`](https://github.com/zxing-js/brows
 
 `v1.x` supports Capacitor `v2.x`
 
-All releases of this package can be found on [npm](https://www.npmjs.com/package/detchenkov/cap-barcode-scanner?activeTab=versions) and on [GitHub Releases](https://github.com/detchenkov/cap-barcode-scanner/releases)
+All releases of this package can be found on [npm](https://www.npmjs.com/package/cap-barcode-scanner?activeTab=versions) and on [GitHub Releases](https://github.com/detchenkov/cap-barcode-scanner/releases)
 
 ## Installation
 
