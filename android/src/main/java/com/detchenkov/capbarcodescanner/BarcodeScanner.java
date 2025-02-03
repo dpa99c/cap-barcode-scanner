@@ -1,4 +1,4 @@
-package com.getcapacitor.community.barcodescanner;
+package com.detchenkov.capbarcodescanner;
 
 import static android.content.Context.MODE_PRIVATE;
 
